@@ -8,9 +8,9 @@ Barker Code Cross Correlation Analysis
 
 ## Data Visualization
 
-![Data](assets/barker7.PNG)
+![Data](assets/barkercode7.PNG)
 
-![Data](assets/barker13.PNG)
+![Data](assets/barkercode13.PNG)
 
 ![Data](assets/barker7_autocorrelation.PNG)
 
