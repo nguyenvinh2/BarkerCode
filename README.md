@@ -13,6 +13,8 @@ Two example Barker Sequences (7 and 13) are generated with each specific sequenc
 
 ![Data](assets/barkercode13.PNG)
 
+Each micro-second contains ten data points for better accuracy and precision.
+
 When autocorrelated, the Barker Sequences produces a peak pulse with minimum sidelobes.
 
 ## Auto-Correlation of Barker Sequences
@@ -28,7 +30,7 @@ Barker Pulses can be used in radar detection and ranging to improve range resolu
 
 ![Data](assets/signal_strength.PNG)
 
-From the graph, it is diffcult to where or how many targets have been detected. Auto-correlating with the known Barker template shows teh following:
+From the graph, it is diffcult to where or how many targets have been detected. Auto-correlating with the known Barker template shows the following:
 
 ![Data](assets/auto_correlation.PNG)
 
