@@ -3,7 +3,7 @@ Barker Code Cross Correlation Analysis
 
 ## Intro
 
-This repo uses Numpy to calculate auto-correlation results of [Barker Codes] (https://en.wikipedia.org/wiki/Barker_code)
+This repo uses Numpy to calculate auto-correlation results of [Barker Codes](https://en.wikipedia.org/wiki/Barker_code)
 
 Two example Barker Sequences (7 and 13) are generated with each specific sequence lasting for 1 micro-second and plotted using Numpy and can be seen below:
 
