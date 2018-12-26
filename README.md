@@ -19,9 +19,9 @@ When autocorrelated, the Barker Sequences produces a peak pulse with minimum sid
 
 ## Auto-Correlation of Barker Sequences
 
-![Data](assets/barkercode7.PNG)
+![Data](assets/barker7_autocorrelation.PNG)
 
-![Data](assets/barkercode13.PNG)
+![Data](assets/barker13_autocorrelation.PNG)
 
 
 ## Application
